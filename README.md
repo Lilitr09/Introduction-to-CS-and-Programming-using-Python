@@ -14,7 +14,6 @@ This repository contains personal solutions to course materials. To maintain aca
 + ✅ Use for reference after attempting problems yourself
 
 + 🔒 Do not share solutions with active course participants
-+ 
 
 ### 📚 Official Course Resources: [MIT 6.0001 Course Page](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 
