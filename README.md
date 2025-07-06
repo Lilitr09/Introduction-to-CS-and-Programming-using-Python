@@ -18,7 +18,7 @@ This repository contains personal solutions to course materials. To maintain aca
 
 ## 📚 Official Course Resources
 
-    + MIT 6.0001 Course Page
+     [MIT 6.0001 Course Page](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 
     + Textbook: Introduction to Computation and Programming Using Python
 
