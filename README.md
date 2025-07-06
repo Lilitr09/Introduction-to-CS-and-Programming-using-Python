@@ -4,4 +4,4 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-green)
 ![Curso Status](https://img.shields.io/badge/Status-In_Progress-yellow)
 
-Bienvenido/a a mi repositorio personal para el curso **6.0001 Introduction to Computer Science and Programming in Python** del Massachusetts Institute of Technology (MIT). Este espacio contiene mis soluciones a ejercicios, proyectos y recursos de aprendizaje relacionados con el curso.
+## Welcome to my personal repository for MIT 6.0001: Introduction to Computer Science and Programming in Python. This space contains my solutions to problem sets, projects, and course-related resources from the official MIT curriculum.
