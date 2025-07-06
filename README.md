@@ -21,3 +21,6 @@ This repository contains personal solutions to course materials. To maintain aca
 This repository is licensed under MIT License. Course materials are property of MIT and used under fair academic practices.
 
 #### Disclaimer: This is a personal learning repository and not officially affiliated with MIT. Created with ❤️ for educational purposes.
+
+## Course:
+ + ### [Week 1](./course/week_1/week_1_readme.md)

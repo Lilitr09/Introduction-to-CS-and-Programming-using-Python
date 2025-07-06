@@ -2,7 +2,7 @@
 ## Lecture 1: Introduction to Python: knowledge, machines, objects, types, variables, bindings, IDEs
 
 ## Readings: Ch 1, Ch 2.1–2.2
-## Lecture 1 Finger Ex.
+## [Lecture 1 Finger Ex](./finger_exercise_w1.py)
 
 ### Chapter 1 Summary: Getting Started
 
