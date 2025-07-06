@@ -9,15 +9,14 @@
 
 ### ⚠️ Academic Integrity Notice
 This repository contains personal solutions to course materials. To maintain academic integrity:
++ ❌ Do not submit my solutions as your own work
 
-    + ❌ Do not submit my solutions as your own work
++ ✅ Use for reference after attempting problems yourself
 
-    + ✅ Use for reference after attempting problems yourself
++ 🔒 Do not share solutions with active course participants
++ 
 
-    + 🔒 Do not share solutions with active course participants
-
-### 📚 Official Course Resources
-[MIT 6.0001 Course Page](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
+### 📚 Official Course Resources: [MIT 6.0001 Course Page](https://ocw.mit.edu/courses/6-100l-introduction-to-cs-and-programming-using-python-fall-2022/)
 
 ### 📝 License
 This repository is licensed under MIT License. Course materials are property of MIT and used under fair academic practices.
